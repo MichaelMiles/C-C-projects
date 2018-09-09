@@ -10,8 +10,6 @@
  */
 
 // Chenyang Fang
-// 1663015
-// chenyf@uw.edu
 // ex17 modifed
 
 #include <iostream>

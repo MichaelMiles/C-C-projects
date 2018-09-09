@@ -1,6 +1,4 @@
 // Name: Chenyang Fang
-// ID: 1663051
-// Email: chenyf@uw.edu
 // Copyright 2018 Chenyang Fang
 // this program is for testing if the Vector class works properly
 

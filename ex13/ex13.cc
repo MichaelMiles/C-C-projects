@@ -10,8 +10,6 @@
  */
 
 // Chenyang Fang
-// 1663051
-// chenyf@uw.edu
 // Copyright 2018 Chenyang Fang
 // this is a modified version of codes provided
 // by cse333 course. Changes to fix memory leaks:

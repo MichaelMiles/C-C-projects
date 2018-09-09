@@ -1,6 +1,4 @@
 // Chenyang Fang
-// 1663051
-// chenyf@uw.edu
 // Copyright 2018 Chenyang Fang
 // define a class Vector which represents 3-D vectors
 // it stores the information of the magnitudes in the x,

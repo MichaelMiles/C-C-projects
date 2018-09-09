@@ -1,6 +1,5 @@
 # Name: Chenyang Fang
-# ID: 1663051
-# EMAIL: chenyf@uw.edu
+
 # Makefile
 CC = g++
 CFLAGS = -Wall -g -std=c++11

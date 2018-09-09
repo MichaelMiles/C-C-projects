@@ -1,6 +1,4 @@
 // Name: Chenyang Fang
-// ID: 1663051
-// Email: chenyf@uw.edu
 // Copyright 2018 Chenyang Fang
 // This file defines an IntPair class
 // which stores a pair of integers

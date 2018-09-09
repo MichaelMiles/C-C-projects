@@ -1,6 +1,5 @@
 // Name: Chenyang Fang
-// ID: 1663051
-// email: chenyf@uw.edu
+
 
 
 #include <stdio.h>

@@ -1,6 +1,4 @@
 // Name: Chenyang Fang
-// ID: 1663051
-// Email: chenyf@uw.edu
 // Copyright 2018 Chenyang Fang
 // This file represents a Vector which contains magnitudes of 3 directions
 // x_, y_ and z_. It provides several constructor and overload several operators

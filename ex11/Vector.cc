@@ -1,6 +1,4 @@
 // Chenyang Fang
-// 1663041
-// chenyf@uw.edu
 // Copyright 2018 Chenyang Fang
 // implementation of class Vector
 

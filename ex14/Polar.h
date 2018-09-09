@@ -1,6 +1,4 @@
 // Chenyang Fang
-// 1663051
-// chenyf@uw.edu
 // Copyright 2018 Chenyang Fang
 // subclass of Coordinate that represents a 2D polar coordinate
 // it is represented as (r_, a_) where r_ is the distance and a_

@@ -10,8 +10,6 @@
  */
 
 // Chenyang Fang
-// 1663051
-// chenyf@uw.edu
 
 #include "SimpleQueue.h"
 

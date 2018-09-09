@@ -1,6 +1,4 @@
 // Chenyang Fang
-// 1663051
-// chenyf@uw.edu
 // Copyright 2018 Chenyang Fang
 // This program reads a text file whose filename is given as a single
 // command-line argument, and then read and count the individual words

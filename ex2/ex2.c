@@ -1,6 +1,4 @@
 // Name: Chenyang Fang
-// student number: 1663051
-// uw email: chenyf@uw.edu
 // Copyright 2018 Chenyang Fang
 #include <stdio.h>
 #include <stdlib.h>

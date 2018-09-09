@@ -1,6 +1,4 @@
 // Chenyang Fang
-// 1663051
-// chenyf@uw.edu 
 // Copyright 2018 Chenyang Fang
 // implementions of helper methods defined in the
 // listenHelper.h

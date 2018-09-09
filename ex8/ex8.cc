@@ -1,6 +1,4 @@
 // Name: Chenyang Fang
-// Email: chenyf@uw.edu
-// ID: 1663051
 // Copyright 2018 Chenyang Fang
 
 // for uint64_t and int64_t etc.
